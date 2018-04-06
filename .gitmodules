@@ -1,7 +1,3 @@
 [submodule "themes/hyde"]
 	path = themes/hyde
 	url = https://github.com/spf13/hyde.git
-[submodule "public"]
-	path = public
-	url = git@github.com:geonnave/geonnave.github.io.git
-	branch = master
