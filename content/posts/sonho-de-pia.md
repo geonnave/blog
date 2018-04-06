@@ -1,6 +1,8 @@
 ---
 title: "Do Sonho de Piá, Encontro com a Trovoada e a Primeira Viagem"
 date: 2015-12-01T19:20:12-03:00
+categories: [relatos]
+tags: [sonho, shadow 600, viagem, emoção]
 draft: false
 ---
 

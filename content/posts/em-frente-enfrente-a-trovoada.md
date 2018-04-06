@@ -1,6 +1,8 @@
 ---
 title: "Em Frente Enfrente a Trovoada"
 date: 2016-05-28T22:25:31-03:00
+categories: [relatos]
+tags: [shadow 600, viagem, emoção]
 draft: true
 ---
 
@@ -241,9 +243,3 @@ caminho, mas este texto agora traz mais vida à esta primeira aventura.
 Caso não tenha lido, em [outra
 postagem](https://geonnave.github.io/posts/sonho-de-pia/)
 contei sobre o dia em que fui buscar a Trovoada.
-
-*****
-
-* [Brazil](https://medium.com/tag/brazil?source=post)
-* [Motorcycle](https://medium.com/tag/motorcycle?source=post)
-* [Honda Shadow 600](https://medium.com/tag/honda-shadow-600?source=post)

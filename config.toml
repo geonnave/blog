@@ -1,14 +1,46 @@
-theme = "hyde"
+theme = "hyde-hyde"
 
 baseURL = "https://geonnave.github.io/"
 languageCode = "en-us"
-title = "geo blog"
+title = "blogeo"
 
-pygmentsUseClassic = true
+## Site Settings
+[params]
+    author = "Geovane Fedrecheski"
+    description = "software & other stories"
+    authorimage = "/img/geovane.jpg"
+    dateformat = "Jan 2, 2006"
+    highlightjs = true
+    themeColor = "theme-base-08"
+    # highlightjsstyle = "github"
+    # please choose either GraphComment or Disqus
+    # GraphCommentId = "your-graph-comment-id"
+
 pygmentsCodeFences = true
-pygmentsNowrap = true
 pygmentsStyle = "manni"
 
 [blackfriday]
   plainIDAnchors = true
   hrefTargetBlank = true
+
+[taxonomies]
+   tag = "tags"
+   category = "categories"
+
+## Social Accounts
+[params.social]
+    github = "geonnave"
+    linkedin = "geovane-fedrecheski"
+    twitter = "geonnave"
+    email = "geonnave@gmail.com"
+
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
