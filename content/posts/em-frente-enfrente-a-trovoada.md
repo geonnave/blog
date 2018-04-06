@@ -3,7 +3,7 @@ title: "Em Frente Enfrente a Trovoada"
 date: 2016-05-28T22:25:31-03:00
 categories: [relatos]
 tags: [shadow 600, viagem, emoção]
-draft: true
+draft: false
 ---
 
 Essa noite tive um sonho desses que a gente acorda depois e dá risada do quão
