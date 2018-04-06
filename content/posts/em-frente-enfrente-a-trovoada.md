@@ -3,7 +3,6 @@ title: "Em Frente, Enfrente: a Trovoada"
 date: 2016-05-28T22:25:31-03:00
 categories: [relatos]
 tags: [shadow 600, viagem, emoção]
-draft: false
 ---
 
 Essa noite tive um sonho desses que a gente acorda depois e dá risada do quão
@@ -19,12 +18,8 @@ memória. É a história do dia em que este engenhoso fidalgo que vos escreve su
 na sua rocinante de aço rumo à sua mancha de terra natal tupini-polaca pela
 primeira vez.
 
-<figure>
-  <img src="/img/trovoada-noite.jpeg" alt="Trovoada na noite de sampa" />
-  <figcaption style="text-align: center;">
-      <small">eu e a Trovoada, numa noite qualquer de sampa</small>
-  </figcaption>
-</figure>
+{{< figure src="/img/trovoada-noite.jpeg" title="Trovoada na noite de sampa" >}}
+
 
 #### Foi assim
 
@@ -241,5 +236,5 @@ E assim terminei minha empreitada. Sem muitas fotos, por adversidades do
 caminho, mas este texto agora traz mais vida à esta primeira aventura.
 
 Caso não tenha lido, em [outra
-postagem](https://geonnave.github.io/posts/sonho-de-pia/)
+postagem]({{< ref "posts/sonho-de-pia.md" >}})
 contei sobre o dia em que fui buscar a Trovoada.

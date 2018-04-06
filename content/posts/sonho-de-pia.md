@@ -3,7 +3,6 @@ title: "Do Sonho de Piá, Encontro com a Trovoada e a Primeira Viagem"
 date: 2015-12-01T19:20:12-03:00
 categories: [relatos]
 tags: [sonho, shadow 600, viagem, emoção]
-draft: false
 ---
 
 Outro dia realizei um sonho de piá. Comprei uma moto, daquelas que os rockerão dos filmes e o Exterminador do Futuro tinham. Não, não é uma Harley, mas tem o estilo custom e foi suficiente pra dar aquele gelo no coração no dia em que a adotei.

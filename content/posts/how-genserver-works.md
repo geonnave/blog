@@ -3,7 +3,6 @@ title: "How gen_server works: implementing a subset of it in Elixir"
 date: 2016-04-22T21:27:45-03:00
 categories: [programming]
 tags: [elixir, erlang, genserver, from scratch]
-draft: false
 ---
 
 [Elixir](http://elixir-lang.org/), the language built to run on
