@@ -1,0 +1,4 @@
+theme = "hyde"
+baseURL = "https://geonnave.github.io/"
+languageCode = "en-us"
+title = "geo"
