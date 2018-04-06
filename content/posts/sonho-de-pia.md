@@ -1,6 +1,6 @@
 ---
 title: "Do Sonho de Piá, Encontro com a Trovoada e a Primeira Viagem"
-date: 2018-04-05T19:20:12-03:00
+date: 2015-12-01T19:20:12-03:00
 draft: false
 ---
 
@@ -14,6 +14,13 @@ Fomos então à casa do então dono para concretizar a transferência — eu
 Eu caminhava entre duas paredes, que era por onde iam e vinham os veículos da garagem. O meu próprio destino era a garagem, que ficava no térreo. A parede da direita acabou antes, e então pude vislumbrar, lá no canto direito, no sentido em que eu caminhava, na última vaga, a minha Honda Shadow 600. 200Kg de beleza, potência e classe.
 
 Mas agora é que a verdadeira emoção começava. Fui guiado até a autoestrada pelo ex-dono, e de lá era eu, a Shadow e uma missão: chegar em sampa, sem gps. O coração bate só de lembrar, os primeiros 10Km foram incríveis, conhecendo a moto, sentindo o vento e descobrindo a potência daquele acelerador. Então parei pra completar o tanque, comer algo e (achei que conseguiria) acalmar o coração.
+
+<figure>
+  <img src="/img/trovoada.jpeg" alt="Trovoada Estacionada" />
+  <figcaption style="text-align: center;">
+      <small">no dia fatídico, parei pra que ambos pudéssemos nos alimentar</small>
+  </figcaption>
+</figure>
 
 Feliz era pouco. Encarnei a definição literal de “piá faceiro”. Daí pra frente toquei até São Paulo e cheguei no trabalho direto, mais fácil do que imaginava. Ah, e como era pouco mais de meio dia e eu vestia uma camiseta manga curta, um “braço de caminhoneiro” veio de brinde.
 
