@@ -8,3 +8,7 @@ pygmentsUseClassic = true
 pygmentsCodeFences = true
 pygmentsNowrap = true
 pygmentsStyle = "manni"
+
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true
