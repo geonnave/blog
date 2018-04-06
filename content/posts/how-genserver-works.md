@@ -1,5 +1,6 @@
 ---
 title: "How gen_server works: implementing a subset of it in Elixir"
+slug: "how-genserver-works"
 date: 2016-04-22T21:27:45-03:00
 categories: [programming]
 tags: [elixir, erlang, genserver, from scratch]
