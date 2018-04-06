@@ -1,22 +1,20 @@
 {{ $comments := readDir "data/comments" }}
 {{ $.Scratch.Add "hasComments" 0 }}
-{{ $entryId := .UniqueID }}
+{{ $slug := .Slug }}
 
 
 {{ range $comments }}
-<p>{{ $entryId }}</p>
-<p>{{ .Name }}</p>
-  {{ if eq .Name $entryId }}
+  {{ if eq .Name $slug }}
     {{ $.Scratch.Add "hasComments" 1 }}
-    {{ range $index, $comments := (index $.Site.Data.comments $entryId ) }}
+    {{ range $index, $comments := (index $.Site.Data.comments $slug ) }}
 <blockquote>
-<p>{{ .body | markdownify }}</p>
+<p>{{ $comments.message | markdownify }}</p>
 <cite>
   <img src="https://www.gravatar.com/avatar/{{ .email }}?s=100">
   <strong>{{ .name }}</strong><br>{{ dateFormat "02/01/2006" .date }}  
 </cite>
 </blockquote>
-    {{ end }}       
+    {{ end }}
   {{ end }}
 {{ end }}
 
