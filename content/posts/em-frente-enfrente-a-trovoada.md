@@ -1,5 +1,5 @@
 ---
-title: "Em Frente Enfrente a Trovoada"
+title: "Em Frente, Enfrente: a Trovoada"
 date: 2016-05-28T22:25:31-03:00
 categories: [relatos]
 tags: [shadow 600, viagem, emoção]

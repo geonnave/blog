@@ -18,6 +18,7 @@ title = "blogeo"
 
 pygmentsCodeFences = true
 pygmentsStyle = "manni"
+googleAnalytics = "UA-117079100"
 
 [blackfriday]
   plainIDAnchors = true
