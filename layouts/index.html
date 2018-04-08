@@ -7,10 +7,15 @@
         <div class="avatar">
           <img class="img-circle" src="{{ .Site.BaseURL }}img/{{ .Site.Params.avatar }}" alt="Responsive image">
         </div>
-        <h3>Hi, I'm <strong>{{ .Site.Params.author }}</strong>, a curious human being.</h3>
-        <h3>I love all things computer science and art.</h3>
-        <h3>Here you can read my <a href="{{ .Site.BaseURL }}posts/">blog posts</a> <!-- (en/pt) --></h3>
-        <h3>and get to know more <a href="{{ .Site.BaseURL }}about/">about</a> me.</h3>
+        <h3>I'm <strong>{{ .Site.Params.author }}</strong>, a curious human being.</h3>
+        <h3>I like computers, performing/martial arts, and motorcycles.</h3>
+        <!-- <h4>
+          I do art with computers. <br>
+          Or computers with human curiosity. <br>
+          Or human curiosity with art.
+        </h4> -->
+        <hr>
+        <h4>Here you can read my <a href="{{ .Site.BaseURL }}posts/">blog posts</a> and get to know more <a href="{{ .Site.BaseURL }}about/">about</a> me.</h4>
         {{ partial "social.html" . }}
         </div>
       </section>

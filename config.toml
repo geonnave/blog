@@ -2,7 +2,7 @@ theme = "hugo-sustain"
 
 baseURL = "https://geonnave.github.io/"
 languageCode = "en-us"
-title = "blogeo"
+title = "Geo's blog"
 
 disqusShortname = "geonnave"
 googleAnalytics = "UA-117079100-1"
