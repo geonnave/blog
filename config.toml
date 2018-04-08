@@ -1,26 +1,27 @@
-theme = "hyde-hyde"
+theme = "hugo-sustain"
 
 baseURL = "https://geonnave.github.io/"
 languageCode = "en-us"
 title = "blogeo"
 
 disqusShortname = "geonnave"
+googleAnalytics = "UA-117079100-1"
+
+pygmentsCodeFences = true
+pygmentsStyle = "manni"
 
 ## Site Settings
 [params]
     author = "Geovane Fedrecheski"
     description = "software & other stories"
     authorimage = "/img/geovane.jpg"
+    avatar = "/geovane.jpg"
     dateformat = "Jan 2, 2006"
     highlightjs = true
     themeColor = "theme-base-08"
     # highlightjsstyle = "github"
     # please choose either GraphComment or Disqus
     # GraphCommentId = "your-graph-comment-id"
-
-pygmentsCodeFences = true
-pygmentsStyle = "manni"
-googleAnalytics = "UA-117079100"
 
 [blackfriday]
   plainIDAnchors = true
@@ -38,17 +39,17 @@ googleAnalytics = "UA-117079100"
     email = "geonnave@gmail.com"
 
 [[menu.main]]
-    name = "Posts"
+    name = "Blog"
     weight = 100
     identifier = "posts"
     url = "/posts/"
 [[menu.main]]
-    name = "About"
-    identifier = "about"
-    weight = 200
-    url = "/about/"
-[[menu.main]]
     name = "Projects"
     identifier = "projects"
-    weight = 300
+    weight = 200
     url = "/projects/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 300
+    url = "/about/"
