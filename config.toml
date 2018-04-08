@@ -4,6 +4,8 @@ baseURL = "https://geonnave.github.io/"
 languageCode = "en-us"
 title = "blogeo"
 
+disqusShortname = "geonnave"
+
 ## Site Settings
 [params]
     author = "Geovane Fedrecheski"
