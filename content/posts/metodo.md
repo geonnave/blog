@@ -14,7 +14,7 @@ Então, vamos desmistificar tudo isso, com definições e exemplos.
 # Método
 A palavra vem do Latim, *methodus*, e significa "caminho ou a via para a realização de algo". Eu particularmente gosto de dizer que método é "o jeito de fazer as coisas".
 
-Por exemplo, imagine um pintor e com uma parede de 10 metros à frente. Dois métodos possíveis seriam:
+Por exemplo, imagine um pintor com uma parede de 10 metros de altura à frente. Dois métodos possíveis seriam:
 
 1. Pegar um cabo maior para seu rolo de pintar
 2. Usar um andaime
@@ -33,9 +33,9 @@ Assim, durante a sua pesquisa ou trabalho, a metodologia irá te ajudar a compre
 # Ciência
 Antes de ligar os pontos, vamos primeiro esclarecer o que é Ciência. A palavra vem do latim, *scientia*, e significa apenas "conhecimento". Como na frase: "ter ciência de".
 
-Trazendo para o nosso uso mais específico, a palavra "Ciência", como na frase "a ciência diz que ovo faz mal" (intencionalmente controlverso), significa:
+Trazendo para o nosso uso mais especializado, como na frase "a Ciência diz que ovo faz mal" (intencionalmente controlverso), a palavra "Ciência" significa:
 
-1. Um sistema para obter conhecimento usando o método científico
+1. Um sistema para obtenção de conhecimento usando o método científico
 2. Um conjunto organizado de conhecimento obtido usando tal sistema
 
 Sim, são duas definições, e elas não são alternativas, mas sim complementares.
@@ -45,7 +45,7 @@ Agora está ficando fácil. Trata-se do "jeito de fazer ciência". Outra defini�
 
 Um filósofo que agregou muito na sistematização do método científico foi René Descartes. Ele o define em 4 etapas: duvidar, dividir, construir, e revisar. Caso queira saber mais, eu escrevi um pouco sobre o assunto [nest post](/posts/dudicre-discurso-do-metodo).
 
-O método científico foi sendo refinado ao longo dos séculos. Assim, dentre os principais passos do método científico moderno, podemos citar: observação, formulação de hipótese, formulação de uma teoria científica, realização de experimentos e corroboração da teoria. Isso tudo dá assunto para um post inteiro, e talvez eu escreva um no futuro.
+O método científico vem sendo refinado ao longo dos séculos. Assim, dentre as principais etapas do método científico moderno, podemos citar: observação, formulação de hipótese, formulação de uma teoria científica, realização de experimentos e corroboração da teoria. Isso tudo dá assunto para um post inteiro, e talvez eu escreva um no futuro.
 
 # Metodologia Científica
 Juntando A com B, a Metodologia Científica "estuda os jeitos sistematizados de se obter e agregar conhecimento".
@@ -60,3 +60,5 @@ Vimos que esses conceitos estão todos interligados, é que é possível falar d
 * **Ciência**: (1) conhecimento, (2) aplicação do método científico para gerar mais conhecimento
 * **Método Científico**: um jeito sistematizado de se obter e agregar conhecimento
 * **Metodologia Científica**: o estudo dos jeitos sistematizados de se obter e agregar conhecimento
+
+E aí, aumentou sua ciência dos fatos? Restou alguma dúvida? Deixe um comentário!
