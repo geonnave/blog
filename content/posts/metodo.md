@@ -1,7 +1,6 @@
 ---
 title: "Para não ter medo do método"
 date: 2018-04-25T00:49:06-03:00
-draft: true
 categories: [desmistificando]
 tags: [reflexão, ciência, método científico]
 ---
