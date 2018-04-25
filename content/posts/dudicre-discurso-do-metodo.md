@@ -2,7 +2,7 @@
 title: "DuDiCRe — sobre O Discurso do Método"
 date: 2017-02-27T19:49:49-03:00
 categories: [resenhas]
-tags: [resenha, reflexão, método científico]
+tags: [resenha, reflexão, ciência, método científico]
 ---
 
 # **DuDiCRe — sobre O Discurso do Método**
