@@ -1,7 +1,6 @@
 ---
 title: "Nodebook - A ferramenta do pesquisador moderno"
 date: 2018-06-25T01:00:30-03:00
-draft: true
 categories: [academia]
 tags: [ciência, pesquisa]
 ---
