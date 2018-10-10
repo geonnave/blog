@@ -5,7 +5,7 @@ categories: [academia]
 tags: [ciência, pesquisa]
 ---
 
-Desde que eu aprendi o mínimo sobre como se faz pesquisa, e comecei a mergulhar mais de cabeça na atividade, algo que sempre me incomodou absurdamente foram as ferramentas de gerenciamento de referências disponíveis. Vou mencionar duas mais utilizadas, que são o [Zotero](https://www.zotero.org/) e o [Mendeley](https://www.mendeley.com/).
+Desde que comecei a trabalhar com pesquisa acadêmica, algo que sempre me incomodou absurdamente foram as ferramentas de gerenciamento de referências disponíveis. Vou mencionar duas mais utilizadas, que são o [Zotero](https://www.zotero.org/) e o [Mendeley](https://www.mendeley.com/).
 
 O Zotero foi a ferramenta que mais tive contato, tanto por ser gratuito, quanto por compatibilidade com minha equipe de pesquisa. Ele me ajudava a ter os artigos offline, porém era uma pedra no sapato na hora de organizar e pesquisar referências. O Mendeley, seu concorrente, apesar de se sair melhor nestes quesitos, ainda não fornecia algo que eu **sentia que deveria existir**: uma forma gráfica de linkar referências, e fazer anotações entre seus relacionamentos. Afinal, como a ciência caminha em pequenos passos incrementais, parece natural poder visualizar estes passos.
 
@@ -21,7 +21,7 @@ Isso foi em Fevereiro de 2018, e em eu Maio eu recebi o link de acesso ao [Nodeb
 
 ---
 
-A essa altura eu já fiquei viciado, hehehe. O Nodebook é muito legal! Construí um Nodebook com os [artigos publicados pelo meu grupo de pesquisa](http://nodebook.io/nodebook/626), e estou montando um gigante com artigos do meu mestrado, ao lado de anotações mapa-mentalísticas. Está ficando lindo, veja nos prints abaixo:
+A essa altura eu já fiquei viciado, hehehe. O Nodebook é muito legal! Construí um Nodebook com os [artigos publicados pelo meu grupo de pesquisa](http://nodebook.io/nodebook/626), e estou montando um gigante com [artigos relacionados ao meu mestrado](http://nodebook.io/nodebook/512), ao lado de anotações mapa-mentalísticas. Está ficando lindo, veja nos prints abaixo:
 
 {{< figure src="/img/nodebook-swarm.png" width="100%" title="Artigos do 'Swarm', o grupo de pesquisa sobre 'cooperative, edge-centric IoT' do qual faço parte." >}}
 
