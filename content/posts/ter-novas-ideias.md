@@ -1,7 +1,6 @@
 ---
 title: "Ter Novas Ideias"
 date: 2019-02-11T20:17:30-02:00
-draft: true
 ---
 
 Hoje, no mundo virtual, esbarrei numa pessoa pedindo sugestões de ideias para TCC. Não conheço a pessoa, mas, sabendo que as ideias funcionam muito melhor quando a gente que as tem (ou pelo menos se convence até certo ponto de que elas são "nossas"), resolvi escrever esse meta-texto, dando ideias sobre como ter ideias. Vem que hoje o barato tá bom!
