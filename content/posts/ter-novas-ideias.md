@@ -1,5 +1,5 @@
 ---
-title: "Ter Novas Ideias"
+title: "Sobre Ter Novas Ideias"
 date: 2019-02-11T20:17:30-02:00
 ---
 
