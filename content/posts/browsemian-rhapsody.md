@@ -40,7 +40,7 @@ gotta leave it all behind and git push
 
 mama, ohh
 I don't wanna be fired
-I sometimes wish I'd never programmed at all
+I sometimes wish I'd never been hired at all
 
 I see a little silhouetto of a man
 scaramouche, scaramouche, are you the Architecto?
