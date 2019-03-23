@@ -81,4 +81,5 @@ nothing really matters to me
 anyway the RAM blows...
 ```
 
+License: [Attribution CC By](https://creativecommons.org/licenses/by/4.0/)
 
