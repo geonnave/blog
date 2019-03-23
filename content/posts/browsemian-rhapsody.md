@@ -36,7 +36,7 @@ too late, deadline has come
 sends shivers down my spine
 fingers aching all the time
 goodbye, everybody, I will deploy
-gotta leave it all behind and git push
+gotta leave it all behind and force git push
 
 mama, ohh
 I don't wanna be fired
