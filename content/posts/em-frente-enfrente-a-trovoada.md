@@ -1,5 +1,5 @@
 ---
-title: "Em Frente, Enfrente: a Trovoada"
+title: "Enfrentando a Trovoada"
 slug: "em-frente-enfrente-a-trovoada"
 date: 2016-05-28T22:25:31-03:00
 categories: [relatos]
@@ -32,11 +32,11 @@ Paraná.
 Como dizem, decidi de supetão mesmo. Saí do trabalho um pouco mais cedo, comprei
 uma luva no caminho, *double*, *triple* check-list na mochila em casa, e às
 20h30 estava tudo pronto. Toda a parafernalha amarrada. GPS ligado. O ruído dos
-motores escapando trovoadas. Agradeci ao Fábio, meu colega de ap, pela ajuda e
+motores escapando trovoadas. Agradeci ao Fábio, meu colega de apartamento, pela ajuda e
 disse-lhe o *hasta la vista*.
 
-Era isso. 800Km me separavam de casa. Ia fazer escala em Curitiba, na casa de
-outro amigo, o famigerado “Batata”. Tempo estimado de chegada: 5 horas. Nada
+Era isso. 800 km me separavam de casa. Ia fazer escala em Curitiba, na casa de
+outro amigo, o famigerado "Batata". Tempo estimado de chegada: 5 horas. Nada
 espetacular, pensei. Depois decansaria um pouco e partiria mais umas 4 ou 5 até
 Virmond.
 
@@ -55,7 +55,7 @@ cintilava, sem proteção alguma de portas ou vidros fechados. Definitivamente n
 era o lugar mais seguro pra se estar.
 
 Felizmente, logo pude respirar fundo ao chegar numa avenida bem movimentada.
-Dali para a 116 “foi dois palito”, como dizem por aí. Alguns Km de estrada, e o
+Dali para a 116 "foi dois palito", como dizem por aí. Alguns km de estrada, e o
 vento e as nuvens do horizonte começavam a sussurrar uma ideia que eu não queria
 ouvir. Parei pra comer, abastecer, refletir um pouco sobre tudo aquilo. Ok, que
 refletir que nada, estava mesmo faceiro, ansioso por continuar na estrada.
@@ -68,8 +68,8 @@ lembrando de Humberto Gessinger:
 > É impossível domar a força do mar.
 
 Por kilômetros segui num *loop* de chuviola, chuvisco, garoa e raios no
-horizonte. “Isso está superando minha expectativas”, pensava, “mas não que eu
-fizesse alguma questão de ir no modo hard”. O que realmente começava a preocupar
+horizonte. "Isso está superando minha expectativas", pensava, "mas não que eu
+fizesse alguma questão de ir no modo hard". O que realmente começava a preocupar
 é a demora da viagem, já que tinha que andar até 40% mais lento, dependendo da
 quantidade de água na pista.
 
@@ -79,10 +79,10 @@ cérebro e carinhosamente pediu à Tempestade que intercedesse?
 
 *****
 
-“Ótimo”, pensava. “Assim posso chegar a tempo de dormir um pouco”. Queria chegar
+"Ótimo", pensava. "Assim posso chegar a tempo de dormir um pouco". Queria chegar
 na terrinha natal ainda para o almoço. Bem, eis que não demorou para que eu
 alcançasse, adivinhem, um congestionamento. Depois descobri que a razão era a
-tal serra do cafezal. “Estão duplicando”, disseram-me.
+tal serra do cafezal. "Estão duplicando", disseram-me.
 
 Bom, como eu rodava sobre duas rodas, não tinha tanto problema em cortar o
 trânsito. Nessa hora fiquei um pouco com pena de quem estava sobre quatro:
@@ -95,7 +95,7 @@ consegui a façanha de enroscar o retrovisor.
 De alguma forma que eu ainda não entendia como, o retrovisor afrouxou-se, de
 modo que ao apertá-lo (ele todo girava como se fosse um único parafuso), a rosca
 acabava com ele longitudinalmente à moto. Assim o espelho apontava para um lugar
-inútil, e eu não tinha nenhuma ferramenta. “Palmas!”, pensei.
+inútil, e eu não tinha nenhuma ferramenta. "Palmas!", pensei.
 
 Mas, porém, no entanto e todavia, olhei para os lados, e oras, eu estava no meio
 de centenas de carretas paradas. Foi realmente muito fácil encontrar uma chave
@@ -105,7 +105,7 @@ realinhar o mecanismo (que então descobri, funcionava com duas porcas, uma
 marcava o fim da rosca e a outra apertava), o trânsito começou a fluir,
 lentamente.
 
-“Guenta aí, já já a gente para e continua” disse o motorista. E lá ia eu,
+"Guenta aí, já já a gente para e continua" disse o motorista. E lá ia eu,
 andando a 10Km/h com uma chave de boca entre a mão direita e o acelerador, e o
 retrovisor balançando. Creio que foram uns 3km assim, até que o trânsito parou
 novamente, o motorista voltou a me ajudar e poucos minutos depois estava tudo
@@ -135,24 +135,24 @@ proteger meus pertences.
 
 E meus amigos(as), isso foi crucial. A quantidade de água que derramou do céu na
 sequência foi absurda. Eu não me atrevia a acelerar mais do que 40km/h. Vento,
-relâmpagos e tudo mais que uma boa chuva de verão tem direito. “melhor parar e
-espera passar?”, pensei, respondendo por fim um grande interno Não. Era a minha
+relâmpagos e tudo mais que uma boa chuva de verão tem direito. "melhor parar e
+espera passar?", pensei, respondendo por fim um grande interno Não. Era a minha
 Trovoada abrindo caminho, enfrentando as dos céus. Claro, elas não durariam para
 sempre, deixei a tempestade pra trás.
 
 Bem, eis que, depois de uns bons kilometros sem ver sombra de civilização,
 percebo ter visto, de canto de olho, uma placa sobre zona de proteção ambiental.
 Em um caso normal, os únicos pensamentos negativos que isso poderia provocar
-seriam do tipo “queria ter passado aqui de dia pra ver a paisagem”. Mas, este
+seriam do tipo "queria ter passado aqui de dia pra ver a paisagem". Mas, este
 caso não era normal.
 
 Em sampa, eu empiricamente havia descoberto, o tanque da Shadow dura 200km.
 Porém (e esse é um grande porém), descobri na prática que, na auto-estrada, o
-motor tende a trabalhar em rotação mais alta e consumir mais — diminuindo a
+motor tende a trabalhar em rotação mais alta e consumir mais -- diminuindo a
 autonomia para 150~160km. E lá estava eu, há 80km sem ver civilização.
 
-E então 90, 100, 110, 120km. Em uma guarita de pedágio, perguntei sobre a
-distância do próximo posto: “ah, uns 40km”. Foi uma mistura de alívio com aquele
+E então 90, 100, 110, 120 km. Em uma guarita de pedágio, perguntei sobre a
+distância do próximo posto: "ah, uns 40 km". Foi uma mistura de alívio com aquele
 som que a garganta faz quando se engole a frustração.
 
 {{< figure src="/img/seu-madruga.jpeg" title="minha cara ao saber da distância do próximo posto" >}}
@@ -163,26 +163,26 @@ frase pra isso também:
 
 > É preciso fé cega e pé atrás.
 
-Como dizem no Paraná, “fui tocando na maciota”, ou seja, segui viagem acelerando
+Como dizem no Paraná, "fui tocando na maciota", ou seja, segui viagem acelerando
 o mínimo necessário. Minha mente, assim todo comando corporal que dirigia à
-motocicleta, refletia “economizar combustível”. O ôdometro, zerado no último
+motocicleta, refletia "economizar combustível". O ôdometro, zerado no último
 posto, marcava 120km quando a Trovoada pediu o tanque reserva. Tecnicamente eu
 tinha ainda 2 litros para percorrer trinta e poucos kilômetros, parecia
-factível, mas sempre fica aquele “e se?”.
+factível, mas sempre fica aquele "e se?".
 
 Esse foi o período curto mais longo que já percorri. 2 da manhã, isolado, a
 chuva, ajudada pelo vento, encontrando cantos entre o capacete e a capa de
 chuva, já umidecia minha camiseta.
 
-35km percorridos desde o pedágio, vejo uma placa: “Postos de serviços”. Respirei
+35km percorridos desde o pedágio, vejo uma placa: "Postos de serviços". Respirei
 fundo para descobrir que era só pousada e lanchonete (ambos fechados). Havia
 apenas um pobre homem, sentado na área externa da lanchonete, aparentemente
 bebendo cachaça, parecia ainda não se importar com o fato de que as luzes
-estavam todas apagadas. Perguntei sobre posto de combustível, “6km”, foi a
+estavam todas apagadas. Perguntei sobre posto de combustível, "6km", foi a
 resposta.
 
-“Tomara que esteja certo, tomara que esteja certo”. Nesse ponto eu já descia
-ladeiras “na banguela” e só esperava pelo melhor. Finalmente, vi a luz de alguma
+"Tomara que esteja certo, tomara que esteja certo". Nesse ponto eu já descia
+ladeiras "na banguela" e só esperava pelo melhor. Finalmente, vi a luz de alguma
 civilização, e logo um posto de combustível. Tinha rodado 39km na reserva. Eu
 queria abraçar o frentista de tanta alegria.
 

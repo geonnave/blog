@@ -9,27 +9,27 @@ tags: [parody, song, web development, fun]
 ## Author: Webie Mercury
 
 ```
-is this web design?
+is this a web design?
 is this a stylesheet?
-caught in a web browser
-no escape from javascript
+caught in a website
+no escape from the javascript
 
 open emacs
 look up to the chars and see
-it's just a null var, it has no value of it
+it's just a null var, it has no value in it
 because it's easy run, easy burn
-error high, so slow
+error high, very slow
 any way the RAM blows, doesn't really matter to me, to me
 
 mama, just killed the DOM
-put content in the <head>
+put the content in the <head>
 wrote a script, outside the tag
 mama, the web has just begun
 but now I've gone and coded it all wrong
 
 mama, ooh
 didn't mean to make it crash
-if I don't fix this memory leak tomorrow
+if I don't fix this undefined tomorrow
 carry on, carry on, the app doesn't really matters...
 
 too late, deadline has come
@@ -55,7 +55,7 @@ I'm just a poor dev, nobody pairs me
 he's just a poor dev from a poor company
 spare his app from this monstrosity
 
-Error high, so slow, will you let me code!
+Error high, very slow, will you let me code!
 Vanilla! no, we will not let you code (let him code!)
 Vanilla! we will not let you code (let him code!)
 Vanilla! we will not let you code (let him code!)
@@ -78,7 +78,7 @@ anyone can see
 nothing really matters
 nothing really matters to me
 
-anyway the RAM blows...
+anyway the RAM blows
 ```
 
 License: [Attribution CC By](https://creativecommons.org/licenses/by/4.0/)

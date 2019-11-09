@@ -1,6 +1,6 @@
 theme = "hugo-sustain"
 
-baseURL = "https://geonnave.github.io/"
+baseURL = "https://geonnave.com/"
 languageCode = "en-us"
 title = "Geo's site"
 

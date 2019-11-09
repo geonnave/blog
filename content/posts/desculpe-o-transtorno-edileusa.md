@@ -33,3 +33,7 @@ zóiuda. Foi paixão que vevemo junto, foi disgraça que se disgraçamo junto, e
 hoje só me amola saber se aquele bacuri era ou num era meu. Mais agora, com a
 sua licença, vou amuntando meu cavalo, que tá na hora de encontrar cos
 companhêro.
+
+---
+
+Este texto foi composto como parte do processo de criação do personagem "Valdecir", o bêbado corno, para a peça "A Tela e A Cela", da qual participei no [Curso Ator de teatro](www.cursoator.com).
