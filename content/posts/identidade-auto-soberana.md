@@ -9,7 +9,7 @@ A Internet hoje tem um problema...
 
 {{< figure src="/img/internet-dog.jpg" width="500" title="\"na internet, ninguém sabe que você é um cão\" (fonte: https://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you%27re_a_dog)" >}}
 
-É sério, e é bem absurdo se pararmos para pensar, mas em pleno 2020, ainda não temos um bom jeito de **identificar pessoas** na Internet!
+É sério, e é bem absurdo se pararmos para pensar, mas em pleno 2020 ainda não temos um bom jeito de **identificar pessoas** na Internet!
 
 Pense sobre o que acontece quando você faz login no email, twitter, facebook, etc.: você usa um usuário-e-senha diferente (assim espero) para cada site. Em cada site, essa é sua identidade: tom@bombadil.com e 12345678. Pode ser que o site solicite seu nome, RG e CPF, mas a não ser que seja um banco ou algo do tipo, geralmente é fácil fornecer valores falsos.
 
