@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Side Projects"
 ---
 
 # primg
@@ -14,7 +14,7 @@ Discussion on HN: https://news.ycombinator.com/item?id=16260512
 
 # WooLed
 
-A led panel made with an wooden structure, an arduino, shift registers, and a lot of wiring. 
+A led panel made with wood, arduino, shift registers, and a lot of wiring.
 See it in action [in this video](https://www.youtube.com/watch?v=-vwiSWYUX68).
 
 <!-- {{< youtube id="vwiSWYUX68" autoplay="false" >}} -->
