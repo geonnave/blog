@@ -2,7 +2,14 @@
 title: "Navigate faster up and down directories"
 date: 2020-02-16T20:18:02-08:00
 draft: false
+categories: [dev]
+tags: [bash, tools]
 ---
+
+TL;DR you'll be able to do this:
+{{< figure src="/img/fastnav.gif" width="600" title="" >}}
+
+# Intro
 
 If you work with software, you may appreciate the command line as a productivity tool.
 This is the case for me, and some tools that make my developer life easier include: `vim`, `tmux`, and `zsh`.
@@ -11,10 +18,10 @@ One thing I like about zsh is the `..` shortcut to go back 1 directory. See:
 
 ```
 $ pwd
-~/dev/blog
+~/dev/teach/blog
 $ ..
 $ pwd
-~/dev/
+~/dev/teach
 ```
 
 It merely saves having to type the full `cd ..` command, but it is so handy!
@@ -29,10 +36,10 @@ What I wanted, however, was a way to go back N directories. So that I could do t
 
 ```
 $ pwd
-~/dev/blog
+~/dev/teach/blog
 $ .. 2
 $ pwd
-~/
+~/dev
 ```
 
 So I created `go_up_n`, a bash function that does exactly that.
@@ -102,4 +109,4 @@ A commented version of them is available [at this github gist](https://gist.gith
 $ wget https://gist.githubusercontent.com/geonnave/335fa20e82a19d9fb177d65e27828fe2/raw/709a98cdb6b6b514b66c31a6cab4af41f99a3793/fastnav.sh && chmod +x fastnav.sh && echo "source $(pwd)/fastnav.sh" >> $HOME/.bashrc
 ```
 
-(note: if you are using `zsh` change `.bashrc` to `.zsh`)
+(note: if you are using `zsh`, change `.bashrc` to `.zsh`)
