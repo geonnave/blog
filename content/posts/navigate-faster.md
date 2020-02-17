@@ -11,10 +11,10 @@ TL;DR you'll be able to do this:
 
 # Intro
 
-If you work with software, you may appreciate the command line as a productivity tool.
+If you develop software, you may appreciate the command line as a productivity tool.
 This is the case for me, and some tools that make my developer life easier include: `vim`, `tmux`, and `zsh`.
 
-One thing I like about zsh is the `..` shortcut to go back 1 directory. See:
+One thing I like about `zsh` is the `..` shortcut to go back 1 directory. See:
 
 ```
 $ pwd
@@ -42,11 +42,11 @@ $ pwd
 ~/dev
 ```
 
-So I created `go_up_n`, a bash function that does exactly that.
+So I created `fastnav_up`, a bash function that does exactly that.
 It is very simple:
 
 ```bash
-go_up_n() {
+fastnav_up() {
     # if no parameters, navigate up only 1 directory and stop
     [ -z "$1" ] && cd .. && return 0
 
@@ -61,17 +61,20 @@ go_up_n() {
 
     return 0
 }
-alias ..="go_up_n"
+alias ..="fastnav_up"
 ```
 
-It just works! I actually created this in 2015, and it's been a life saver ever since.
+Note that bash does not let us use the dot character (`.`) within a function name, 
+but that can be easily overcome with an `alias` :)
+
+And it just works! I actually created this a few years ago, and it's been a life saver ever since.
 
 # I want more
 
 Alright, the new `.. 2` is cool, but what if I wanted to count backwards? 
-Like, if I am too deeply nested, it may become difficult to count how many directories to go up.
+Like, if I am too deeply nested, it may be difficult to count how many directories to go up.
 
-For this I created the `go_down_n_from_home` function (aliased to `,,`), which works like this:
+For this I created `fastnav_down` (aliased to `,,`), which works like this:
 
 ```
 $ pwd
@@ -84,19 +87,19 @@ $ pwd
 The code is also simple:
 
 ```bash
-go_down_n_from_home() {
+fastnav_down() {
     [ "$( echo $1 | sed "s/[0-9]*//g" )" ] && echo "\$1 must be a number" && return 1 || n=$1
 
     # separate path components into a string array
     a=( $(echo $(pwd) | sed "s;\/; ;g") )
 
     ((n+=2)) # we are starting from /home/<your-user>/
-    dir=$(echo "${a[@]:0:$n}" | sed "s; ;\/;g") # filter the array and put slashes back
+    dir=$(echo "${a[@]:0:$n}" | sed "s; ;\/;g") # slice the array and put slashes back
     cd /$dir
 
     return 0
 }
-alias ,,="go_down_n_from_home"
+alias ,,="fastnav_down"
 
 ```
 
