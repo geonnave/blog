@@ -5,7 +5,7 @@ draft: false
 tags: [identidade auto-soberana, privacidade, segurança, internet]
 ---
 
-A Internet hoje tem um problema...
+A Internet tem um problema...
 
 {{< figure src="/img/internet-dog.jpg" width="500" title="\"na internet, ninguém sabe que você é um cão\" (fonte: https://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you%27re_a_dog)" >}}
 
