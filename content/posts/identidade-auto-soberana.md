@@ -31,7 +31,7 @@ Como já temos algumas décadas desse paradigma instalado, e de alguma forma fun
 
 # Identidade Auto-Soberana
 
-Uma proposta para resolver esse problema é conhecida como **identidade auto-soberana** (do inglês, _self-sovereign identity_). Bastante detalhada neste artigo do Christopher Allen (em inglês) [1], a ideia é que você deve ser o dono da sua identidade digital e carregar ela com você, basicamente do jeito que você já faz com sua carteira física. O funcionamento, inclusive, seria bem parecido: você poderia ter um app **"carteira digital"** no smartphone para guardar todos os seus documentos digitais. Quando um site ou serviço precisar da sua identificação, você apresenta, com segurança criptográfica, o documento digital necessário.
+Uma proposta para resolver esse problema é conhecida como **identidade auto-soberana** (do inglês, _self-sovereign identity_). Bastante detalhada em um artigo do Christopher Allen (em inglês) [1], a ideia é que você deve ser o dono da sua identidade digital e carregar ela com você, basicamente do jeito que você já faz com sua carteira física. O funcionamento, inclusive, seria bem parecido: você usa um app de **"carteira digital"** no smartphone para guardar todos os seus documentos digitais. Quando um site ou serviço precisar da sua identificação, você apresenta, com segurança criptográfica, o documento digital necessário.
 
 O Christopher Allen, que foi um dos criadores do TLS, propôs 10 princípios da Identidade Auto-Soberana, que eu resumo abaixo, com comentários em itálico:
 
@@ -62,15 +62,15 @@ Se você é da área técnica e está perdido/a, curioso, ou está captando que 
 
 Bem, não. Mas pelo menos eu consegui escrever 80% do texto sem apelar para _buzzwords_ 😃. Falta mais um ingrediente no sistema: _Blockchain_.
 
-Mesmo que, lá em 1970, houvesse um consenso (trocadilho não-intencional) geral sobre os problemas do modelo usuário-e-senha, seria difícil resolver. O principal motivo é que, até 2008, qualquer sistema de identidade necessariamente precisaria ser gerenciado por um sistema centralizado. Por exemplo, se o governo quisesse assinar a sua credencial, ele teria que colocar a chave pública dele em um diretório centralizado, para que outros pudessem verificar.
+Mesmo que, lá em 1970, houvesse um consenso (trocadilho sutil não-intencional) geral sobre os problemas do modelo usuário-e-senha, seria difícil resolver. O principal motivo é que, até 2008, qualquer sistema de identidade necessariamente precisaria ser gerenciado por um sistema centralizado. Por exemplo, se o governo quisesse assinar a sua credencial, ele teria que colocar a chave pública dele em um diretório centralizado, para que outros pudessem verificar.
 
-Como Blockchain é uma solução técnica para o problema de armazenamento decentralizado e confiável, ela se torna uma peça importante para habilitar a identidade auto-soberana. Em particular, entidades confiáveis podem colocar sua chave pública em uma Blockchain, o que pode ser verificado por todos os nós da rede.
+Como Blockchain é uma solução técnica para o problema de armazenamento decentralizado e confiável, ela se torna uma peça importante para habilitar a identidade auto-soberana. Em particular, entidades confiáveis podem colocar sua chave pública em uma Blockchain, permitindo assim uma verificação distribuída por outros nós da rede.
 
 # Agora sim, conclusão
 
-Essa postagem foi uma visão geral sobre o conceito de identidade auto-soberana. Espero que você tenha percebido os problemas da identidade hoje na Internet, e que a identidade de cada pessoa pertence apenas a ele mesmo. Também espero ter despertado alguma curiosidade sobre o assunto, em especial os novos novos padrões, Decentralized Identifiers e Verifiable Credentials, que pretendo explicar melhor em postagens futuras.
+Essa postagem foi uma visão geral sobre o conceito de identidade auto-soberana. Espero que você tenha percebido os problemas da identidade hoje na Internet, e que a identidade de cada pessoa pertence apenas a ela mesma. Também espero ter despertado alguma curiosidade sobre o assunto, em especial os novos novos padrões, Decentralized Identifiers e Verifiable Credentials, que pretendo explicar melhor em postagens futuras.
 
-Particularmente, estou muito animado com o assunto, especialmente por haver uma comunidade enorme trabalhando para trazer identidade auto-soberana à realidade [4][5]. Quem sabe em poucos anos teremos carteiras completamente digitais, fazendo com que o conceito de login e senha virem coisa do passado. 😃
+Particularmente, estou muito animado com o assunto, especialmente por haver uma comunidade enorme trabalhando para trazer identidade auto-soberana à realidade [4][5]. Quem sabe em poucos anos teremos carteiras completamente digitais, e o conceito de login e senha será transformado em coisa do passado. 😃
 
 # Referências
 

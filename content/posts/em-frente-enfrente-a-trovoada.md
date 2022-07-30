@@ -119,7 +119,7 @@ ultrapassar carretas super lentas era raramente uma opção.
 
 O próximo fato notável de menção, não, na verdade os dois próximos fatos,
 desenrolam-se a seguir. Nesse momento a memória já começa a ficar turva, o que
-deve refletir um pouco do cançaço. Era meia noite e eu estava aproximadamente na
+deve refletir um pouco do cansaço. Era meia noite e eu estava aproximadamente na
 metade do caminho.
 
 Terminada a serra e o congestionamento, entra A Chuva, 2º Ato. Mas desta vez com
@@ -157,7 +157,7 @@ som que a garganta faz quando se engole a frustração.
 
 {{< figure src="/img/seu-madruga.jpeg" title="minha cara ao saber da distância do próximo posto" >}}
 
-Isso porque, além de não saber se o combistível dava pra 40km, infelizmente não
+Isso porque, além de não saber se o combustível dava pra 40km, infelizmente não
 dá pra acreditar piamente em toda informação que te dão na rua, né? HG tem uma
 frase pra isso também:
 
@@ -165,9 +165,9 @@ frase pra isso também:
 
 Como dizem no Paraná, "fui tocando na maciota", ou seja, segui viagem acelerando
 o mínimo necessário. Minha mente, assim todo comando corporal que dirigia à
-motocicleta, refletia "economizar combustível". O ôdometro, zerado no último
+motocicleta, refletia _economizar combustível_. O ôdometro, zerado no último
 posto, marcava 120km quando a Trovoada pediu o tanque reserva. Tecnicamente eu
-tinha ainda 2 litros para percorrer trinta e poucos kilômetros, parecia
+tinha ainda 2 litros para percorrer quarenta kilômetros, parecia
 factível, mas sempre fica aquele "e se?".
 
 Esse foi o período curto mais longo que já percorri. 2 da manhã, isolado, a
@@ -183,7 +183,7 @@ resposta.
 
 "Tomara que esteja certo, tomara que esteja certo". Nesse ponto eu já descia
 ladeiras "na banguela" e só esperava pelo melhor. Finalmente, vi a luz de alguma
-civilização, e logo um posto de combustível. Tinha rodado 39km na reserva. Eu
+civilização, e logo um posto de combustível. Tinha rodado 41km na reserva. Eu
 queria abraçar o frentista de tanta alegria.
 
 *****
@@ -213,7 +213,6 @@ grama ao lado, vendo as nuvens, pensando que logo estaria em casa. De início
 quis ter uma câmera para registrar o momento, mas então aceitei a efemeridade
 como parte da minha viagem.
 
-{{< figure src="/img/deitado-na-grama.jpeg" title="deitei tão sublime quanto se pode imaginar" >}}
 
 *****
 

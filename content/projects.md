@@ -17,4 +17,3 @@ Discussion on HN: https://news.ycombinator.com/item?id=16260512
 A led panel made with wood, arduino, shift registers, and a lot of wiring.
 See it in action [in this video](https://www.youtube.com/watch?v=-vwiSWYUX68).
 
-<!-- {{< youtube id="vwiSWYUX68" autoplay="false" >}} -->

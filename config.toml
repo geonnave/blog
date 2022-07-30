@@ -43,11 +43,16 @@ pygmentsStyle = "manni"
     weight = 100
     identifier = "posts"
     url = "/posts/"
-[[menu.main]]
-    name = "Projects"
-    identifier = "projects"
-    weight = 200
-    url = "/projects/"
+# [[menu.main]]
+#     name = "Publications"
+#     weight = 150
+#     identifier = "publications"
+#     url = "/publications/"
+# [[menu.main]]
+#     name = "Side Projects"
+#     identifier = "projects"
+#     weight = 200
+#     url = "/projects/"
 [[menu.main]]
     name = "About"
     identifier = "about"

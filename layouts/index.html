@@ -7,15 +7,17 @@
         <div class="avatar">
           <img class="img-circle" src="{{ .Site.BaseURL }}img/{{ .Site.Params.avatar }}" alt="Responsive image">
         </div>
-        <h3>I'm <strong>{{ .Site.Params.author }}</strong>, a curious human being.</h3>
-        <h3>I like: computers, arts, education, self-improvement, innovation, etc.</h3>
+        <h3>Hi! My name is <strong>{{ .Site.Params.author }}</strong> and this is my personal website.</h3>
+
+        <h3>Here you can read my <a href="{{ .Site.BaseURL }}posts/">blog posts</a> and get to know more <a href="{{ .Site.BaseURL }}about/">about</a> me.</h3>
+        <h3>TL;DR: IoT Swarms, Decentralized Identity, Education, Motorcycling, Camping, Crossfit, Martial Arts, Theater.</h3>
+        <h3>Feels like chatting? Write to geonnave then @ then gmail then dot then com. Or else just use the button below :)</h3>
         <!-- <h4>
           I do art with computers. <br>
           Or computers with human curiosity. <br>
           Or human curiosity with art.
         </h4> -->
         <hr>
-        <h4>In this site you can read my <a href="{{ .Site.BaseURL }}posts/">blog posts</a> and get to know more <a href="{{ .Site.BaseURL }}about/">about</a> me.</h4>
         {{ partial "social.html" . }}
         </div>
       </section>
